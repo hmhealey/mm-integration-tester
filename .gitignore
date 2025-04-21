@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+
+# Vim temporary files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# VSCode project files
+.vscode
+*.code-workspace
